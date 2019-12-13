@@ -1,0 +1,865 @@
+;country;year;lvl_of_democracy
+0;Albania;1952;-9
+1;Argentina;1952;-9
+2;Armenia;1952;-9
+3;Australia;1952;10
+4;Austria;1952;10
+5;Azerbaijan;1952;-9
+6;Belarus;1952;-9
+7;Belgium;1952;10
+8;Bhutan;1952;-10
+9;Bolivia;1952;-4
+10;Brazil;1952;5
+11;Bulgaria;1952;-7
+12;Canada;1952;10
+13;Chile;1952;2
+14;China;1952;-8
+15;Colombia;1952;-5
+16;Costa Rica;1952;10
+17;Croatia;1952;-7
+18;Cuba;1952;0
+19;Czech Rep.;1952;-7
+20;Denmark;1952;10
+21;Dominican Rep.;1952;-9
+22;Ecuador;1952;2
+23;Egypt;1952;-7
+24;El Salvador;1952;-6
+25;Estonia;1952;-9
+26;Ethiopia;1952;-9
+27;Finland;1952;10
+28;France;1952;10
+29;Georgia;1952;-9
+30;Germany;1952;10
+31;Greece;1952;4
+32;Guatemala;1952;2
+33;Haiti;1952;-5
+34;Honduras;1952;-3
+35;Hungary;1952;-7
+36;India;1952;9
+37;Indonesia;1952;0
+38;Iran;1952;-1
+39;Iraq;1952;-4
+40;Ireland;1952;10
+41;Israel;1952;10
+42;Italy;1952;10
+43;Japan;1952;10
+44;Jordan;1952;-1
+45;Kazakhstan;1952;-9
+46;Korea, Dem. Rep.;1952;-7
+47;Korea, Rep.;1952;-4
+48;Kyrgyzstan;1952;-9
+49;Latvia;1952;-9
+50;Lebanon;1952;2
+51;Liberia;1952;-6
+52;Libya;1952;-7
+53;Lithuania;1952;-9
+54;Macedonia, FYR;1952;-7
+55;Mexico;1952;-6
+56;Moldova;1952;-9
+57;Mongolia;1952;-7
+58;Montenegro;1952;-7
+59;Myanmar;1952;8
+60;Nepal;1952;-7
+61;Netherlands;1952;10
+62;New Zealand;1952;10
+63;Nicaragua;1952;-8
+64;Norway;1952;10
+65;Oman;1952;-6
+66;Pakistan;1952;5
+67;Panama;1952;-1
+68;Paraguay;1952;-5
+69;Peru;1952;-2
+70;Philippines;1952;5
+71;Poland;1952;-7
+72;Portugal;1952;-9
+73;Romania;1952;-7
+74;Russia;1952;-9
+75;Saudi Arabia;1952;-10
+76;Serbia;1952;-7
+77;Slovak Republic;1952;-7
+78;Slovenia;1952;-7
+79;South Africa;1952;4
+80;Spain;1952;-7
+81;Sri Lanka;1952;7
+82;Sweden;1952;10
+83;Switzerland;1952;10
+84;Syria;1952;-7
+85;Taiwan;1952;-8
+86;Tajikistan;1952;-9
+87;Thailand;1952;-6
+88;Turkey;1952;7
+89;Turkmenistan;1952;-9
+90;Ukraine;1952;-9
+91;United Kingdom;1952;10
+92;United States;1952;10
+93;Uruguay;1952;8
+94;Uzbekistan;1952;-9
+95;Venezuela;1952;-3
+96;Albania;1957;-9
+97;Argentina;1957;-1
+98;Armenia;1957;-7
+99;Australia;1957;10
+100;Austria;1957;10
+101;Azerbaijan;1957;-7
+102;Belarus;1957;-7
+103;Belgium;1957;10
+104;Bhutan;1957;-10
+105;Bolivia;1957;-3
+106;Brazil;1957;5
+107;Bulgaria;1957;-7
+108;Canada;1957;10
+109;Chile;1957;5
+110;China;1957;-8
+111;Colombia;1957;7
+112;Costa Rica;1957;10
+113;Croatia;1957;-7
+114;Cuba;1957;-9
+115;Czech Rep.;1957;-7
+116;Denmark;1957;10
+117;Dominican Rep.;1957;-9
+118;Ecuador;1957;2
+119;Egypt;1957;-7
+120;El Salvador;1957;-5
+121;Estonia;1957;-7
+122;Ethiopia;1957;-9
+123;Finland;1957;10
+124;France;1957;10
+125;Georgia;1957;-7
+126;Germany;1957;10
+127;Greece;1957;4
+128;Guatemala;1957;-6
+129;Haiti;1957;-5
+130;Honduras;1957;-1
+131;Hungary;1957;-7
+132;India;1957;9
+133;Indonesia;1957;-1
+134;Iran;1957;-10
+135;Iraq;1957;-4
+136;Ireland;1957;10
+137;Israel;1957;10
+138;Italy;1957;10
+139;Japan;1957;10
+140;Jordan;1957;-9
+141;Kazakhstan;1957;-7
+142;Korea, Dem. Rep.;1957;-8
+143;Korea, Rep.;1957;-4
+144;Kyrgyzstan;1957;-7
+145;Latvia;1957;-7
+146;Lebanon;1957;2
+147;Liberia;1957;-6
+148;Libya;1957;-7
+149;Lithuania;1957;-7
+150;Macedonia, FYR;1957;-7
+151;Mexico;1957;-6
+152;Moldova;1957;-7
+153;Mongolia;1957;-7
+154;Montenegro;1957;-7
+155;Myanmar;1957;8
+156;Nepal;1957;-4
+157;Netherlands;1957;10
+158;New Zealand;1957;10
+159;Nicaragua;1957;-8
+160;Norway;1957;10
+161;Oman;1957;-10
+162;Pakistan;1957;8
+163;Panama;1957;4
+164;Paraguay;1957;-9
+165;Peru;1957;5
+166;Philippines;1957;5
+167;Poland;1957;-7
+168;Portugal;1957;-9
+169;Romania;1957;-7
+170;Russia;1957;-7
+171;Saudi Arabia;1957;-10
+172;Serbia;1957;-7
+173;Slovak Republic;1957;-7
+174;Slovenia;1957;-7
+175;South Africa;1957;4
+176;Spain;1957;-7
+177;Sri Lanka;1957;7
+178;Sweden;1957;10
+179;Switzerland;1957;10
+180;Syria;1957;7
+181;Taiwan;1957;-8
+182;Tajikistan;1957;-7
+183;Thailand;1957;-3
+184;Turkey;1957;4
+185;Turkmenistan;1957;-7
+186;Ukraine;1957;-7
+187;United Kingdom;1957;10
+188;United States;1957;10
+189;Uruguay;1957;8
+190;Uzbekistan;1957;-7
+191;Venezuela;1957;-3
+192;Albania;1962;-9
+193;Argentina;1962;-1
+194;Armenia;1962;-7
+195;Australia;1962;10
+196;Austria;1962;10
+197;Azerbaijan;1962;-7
+198;Belarus;1962;-7
+199;Belgium;1962;10
+200;Bhutan;1962;-10
+201;Bolivia;1962;-3
+202;Brazil;1962;5
+203;Bulgaria;1962;-7
+204;Canada;1962;10
+205;Chile;1962;5
+206;China;1962;-8
+207;Colombia;1962;7
+208;Costa Rica;1962;10
+209;Croatia;1962;-7
+210;Cuba;1962;-7
+211;Czech Rep.;1962;-7
+212;Denmark;1962;10
+213;Dominican Rep.;1962;8
+214;Ecuador;1962;-1
+215;Egypt;1962;-7
+216;El Salvador;1962;-3
+217;Estonia;1962;-7
+218;Ethiopia;1962;-9
+219;Finland;1962;10
+220;France;1962;5
+221;Georgia;1962;-7
+222;Germany;1962;10
+223;Greece;1962;4
+224;Guatemala;1962;-5
+225;Haiti;1962;-9
+226;Honduras;1962;-1
+227;Hungary;1962;-7
+228;India;1962;9
+229;Indonesia;1962;-5
+230;Iran;1962;-10
+231;Iraq;1962;-5
+232;Ireland;1962;10
+233;Israel;1962;10
+234;Italy;1962;10
+235;Japan;1962;10
+236;Jordan;1962;-9
+237;Kazakhstan;1962;-7
+238;Korea, Dem. Rep.;1962;-8
+239;Korea, Rep.;1962;-7
+240;Kyrgyzstan;1962;-7
+241;Latvia;1962;-7
+242;Lebanon;1962;2
+243;Liberia;1962;-6
+244;Libya;1962;-7
+245;Lithuania;1962;-7
+246;Macedonia, FYR;1962;-7
+247;Mexico;1962;-6
+248;Moldova;1962;-7
+249;Mongolia;1962;-7
+250;Montenegro;1962;-7
+251;Myanmar;1962;-6
+252;Nepal;1962;-9
+253;Netherlands;1962;10
+254;New Zealand;1962;10
+255;Nicaragua;1962;-8
+256;Norway;1962;10
+257;Oman;1962;-10
+258;Pakistan;1962;1
+259;Panama;1962;4
+260;Paraguay;1962;-9
+261;Peru;1962;-6
+262;Philippines;1962;5
+263;Poland;1962;-7
+264;Portugal;1962;-9
+265;Romania;1962;-7
+266;Russia;1962;-7
+267;Saudi Arabia;1962;-10
+268;Serbia;1962;-7
+269;Slovak Republic;1962;-7
+270;Slovenia;1962;-7
+271;South Africa;1962;4
+272;Spain;1962;-7
+273;Sri Lanka;1962;7
+274;Sweden;1962;10
+275;Switzerland;1962;10
+276;Syria;1962;-2
+277;Taiwan;1962;-8
+278;Tajikistan;1962;-7
+279;Thailand;1962;-7
+280;Turkey;1962;9
+281;Turkmenistan;1962;-7
+282;Ukraine;1962;-7
+283;United Kingdom;1962;10
+284;United States;1962;10
+285;Uruguay;1962;8
+286;Uzbekistan;1962;-7
+287;Venezuela;1962;6
+288;Albania;1967;-9
+289;Argentina;1967;-9
+290;Armenia;1967;-7
+291;Australia;1967;10
+292;Austria;1967;10
+293;Azerbaijan;1967;-7
+294;Belarus;1967;-7
+295;Belgium;1967;10
+296;Bhutan;1967;-10
+297;Bolivia;1967;-4
+298;Brazil;1967;-9
+299;Bulgaria;1967;-7
+300;Canada;1967;10
+301;Chile;1967;6
+302;China;1967;-9
+303;Colombia;1967;7
+304;Costa Rica;1967;10
+305;Croatia;1967;-7
+306;Cuba;1967;-7
+307;Czech Rep.;1967;-7
+308;Denmark;1967;10
+309;Dominican Rep.;1967;-3
+310;Ecuador;1967;-1
+311;Egypt;1967;-7
+312;El Salvador;1967;0
+313;Estonia;1967;-7
+314;Ethiopia;1967;-9
+315;Finland;1967;10
+316;France;1967;5
+317;Georgia;1967;-7
+318;Germany;1967;10
+319;Greece;1967;-7
+320;Guatemala;1967;3
+321;Haiti;1967;-9
+322;Honduras;1967;-1
+323;Hungary;1967;-7
+324;India;1967;9
+325;Indonesia;1967;-7
+326;Iran;1967;-10
+327;Iraq;1967;-5
+328;Ireland;1967;10
+329;Israel;1967;9
+330;Italy;1967;10
+331;Japan;1967;10
+332;Jordan;1967;-9
+333;Kazakhstan;1967;-7
+334;Korea, Dem. Rep.;1967;-9
+335;Korea, Rep.;1967;3
+336;Kyrgyzstan;1967;-7
+337;Latvia;1967;-7
+338;Lebanon;1967;2
+339;Liberia;1967;-6
+340;Libya;1967;-7
+341;Lithuania;1967;-7
+342;Macedonia, FYR;1967;-7
+343;Mexico;1967;-6
+344;Moldova;1967;-7
+345;Mongolia;1967;-7
+346;Montenegro;1967;-7
+347;Myanmar;1967;-7
+348;Nepal;1967;-9
+349;Netherlands;1967;10
+350;New Zealand;1967;10
+351;Nicaragua;1967;-8
+352;Norway;1967;10
+353;Oman;1967;-10
+354;Pakistan;1967;1
+355;Panama;1967;4
+356;Paraguay;1967;-8
+357;Peru;1967;5
+358;Philippines;1967;5
+359;Poland;1967;-7
+360;Portugal;1967;-9
+361;Romania;1967;-7
+362;Russia;1967;-7
+363;Saudi Arabia;1967;-10
+364;Serbia;1967;-7
+365;Slovak Republic;1967;-7
+366;Slovenia;1967;-7
+367;South Africa;1967;4
+368;Spain;1967;-7
+369;Sri Lanka;1967;7
+370;Sweden;1967;10
+371;Switzerland;1967;10
+372;Syria;1967;-7
+373;Taiwan;1967;-8
+374;Tajikistan;1967;-7
+375;Thailand;1967;-7
+376;Turkey;1967;8
+377;Turkmenistan;1967;-7
+378;Ukraine;1967;-7
+379;United Kingdom;1967;10
+380;United States;1967;10
+381;Uruguay;1967;8
+382;Uzbekistan;1967;-7
+383;Venezuela;1967;6
+384;Albania;1972;-9
+385;Argentina;1972;-9
+386;Armenia;1972;-7
+387;Australia;1972;10
+388;Austria;1972;10
+389;Azerbaijan;1972;-7
+390;Belarus;1972;-7
+391;Belgium;1972;10
+392;Bhutan;1972;-10
+393;Bolivia;1972;-7
+394;Brazil;1972;-9
+395;Bulgaria;1972;-7
+396;Canada;1972;10
+397;Chile;1972;6
+398;China;1972;-8
+399;Colombia;1972;7
+400;Costa Rica;1972;10
+401;Croatia;1972;-7
+402;Cuba;1972;-7
+403;Czech Rep.;1972;-7
+404;Denmark;1972;10
+405;Dominican Rep.;1972;-3
+406;Ecuador;1972;-5
+407;Egypt;1972;-7
+408;El Salvador;1972;-1
+409;Estonia;1972;-7
+410;Ethiopia;1972;-9
+411;Finland;1972;10
+412;France;1972;8
+413;Georgia;1972;-7
+414;Germany;1972;10
+415;Greece;1972;-7
+416;Guatemala;1972;1
+417;Haiti;1972;-10
+418;Honduras;1972;-1
+419;Hungary;1972;-7
+420;India;1972;9
+421;Indonesia;1972;-7
+422;Iran;1972;-10
+423;Iraq;1972;-7
+424;Ireland;1972;10
+425;Israel;1972;9
+426;Italy;1972;10
+427;Japan;1972;10
+428;Jordan;1972;-9
+429;Kazakhstan;1972;-7
+430;Korea, Dem. Rep.;1972;-9
+431;Korea, Rep.;1972;-9
+432;Kyrgyzstan;1972;-7
+433;Latvia;1972;-7
+434;Lebanon;1972;5
+435;Liberia;1972;-6
+436;Libya;1972;-7
+437;Lithuania;1972;-7
+438;Macedonia, FYR;1972;-7
+439;Mexico;1972;-6
+440;Moldova;1972;-7
+441;Mongolia;1972;-7
+442;Montenegro;1972;-7
+443;Myanmar;1972;-7
+444;Nepal;1972;-9
+445;Netherlands;1972;10
+446;New Zealand;1972;10
+447;Nicaragua;1972;-8
+448;Norway;1972;10
+449;Oman;1972;-10
+450;Pakistan;1972;4
+451;Panama;1972;-7
+452;Paraguay;1972;-8
+453;Peru;1972;-7
+454;Philippines;1972;-9
+455;Poland;1972;-7
+456;Portugal;1972;-9
+457;Romania;1972;-7
+458;Russia;1972;-7
+459;Saudi Arabia;1972;-10
+460;Serbia;1972;-7
+461;Slovak Republic;1972;-7
+462;Slovenia;1972;-7
+463;South Africa;1972;4
+464;Spain;1972;-7
+465;Sri Lanka;1972;8
+466;Sweden;1972;10
+467;Switzerland;1972;10
+468;Syria;1972;-9
+469;Taiwan;1972;-8
+470;Tajikistan;1972;-7
+471;Thailand;1972;-7
+472;Turkey;1972;-2
+473;Turkmenistan;1972;-7
+474;Ukraine;1972;-7
+475;United Kingdom;1972;10
+476;United States;1972;10
+477;Uruguay;1972;-3
+478;Uzbekistan;1972;-7
+479;Venezuela;1972;9
+480;Albania;1977;-9
+481;Argentina;1977;-9
+482;Armenia;1977;-7
+483;Australia;1977;10
+484;Austria;1977;10
+485;Azerbaijan;1977;-7
+486;Belarus;1977;-7
+487;Belgium;1977;10
+488;Bhutan;1977;-10
+489;Bolivia;1977;-7
+490;Brazil;1977;-4
+491;Bulgaria;1977;-7
+492;Canada;1977;10
+493;Chile;1977;-7
+494;China;1977;-7
+495;Colombia;1977;8
+496;Costa Rica;1977;10
+497;Croatia;1977;-7
+498;Cuba;1977;-7
+499;Czech Rep.;1977;-7
+500;Denmark;1977;10
+501;Dominican Rep.;1977;-3
+502;Ecuador;1977;-5
+503;Egypt;1977;-6
+504;El Salvador;1977;-6
+505;Estonia;1977;-7
+506;Ethiopia;1977;-7
+507;Finland;1977;10
+508;France;1977;8
+509;Georgia;1977;-7
+510;Germany;1977;10
+511;Greece;1977;8
+512;Guatemala;1977;-3
+513;Haiti;1977;-9
+514;Honduras;1977;-1
+515;Hungary;1977;-7
+516;India;1977;8
+517;Indonesia;1977;-7
+518;Iran;1977;-10
+519;Iraq;1977;-7
+520;Ireland;1977;10
+521;Israel;1977;9
+522;Italy;1977;10
+523;Japan;1977;10
+524;Jordan;1977;-10
+525;Kazakhstan;1977;-7
+526;Korea, Dem. Rep.;1977;-9
+527;Korea, Rep.;1977;-8
+528;Kyrgyzstan;1977;-7
+529;Latvia;1977;-7
+530;Lebanon;1977;0
+531;Liberia;1977;-6
+532;Libya;1977;-7
+533;Lithuania;1977;-7
+534;Macedonia, FYR;1977;-7
+535;Mexico;1977;-3
+536;Moldova;1977;-7
+537;Mongolia;1977;-7
+538;Montenegro;1977;-7
+539;Myanmar;1977;-6
+540;Nepal;1977;-9
+541;Netherlands;1977;10
+542;New Zealand;1977;10
+543;Nicaragua;1977;-8
+544;Norway;1977;10
+545;Oman;1977;-10
+546;Pakistan;1977;-7
+547;Panama;1977;-7
+548;Paraguay;1977;-8
+549;Peru;1977;-7
+550;Philippines;1977;-9
+551;Poland;1977;-7
+552;Portugal;1977;9
+553;Romania;1977;-8
+554;Russia;1977;-7
+555;Saudi Arabia;1977;-10
+556;Serbia;1977;-7
+557;Slovak Republic;1977;-7
+558;Slovenia;1977;-7
+559;South Africa;1977;4
+560;Spain;1977;5
+561;Sri Lanka;1977;8
+562;Sweden;1977;10
+563;Switzerland;1977;10
+564;Syria;1977;-9
+565;Taiwan;1977;-7
+566;Tajikistan;1977;-7
+567;Thailand;1977;-2
+568;Turkey;1977;9
+569;Turkmenistan;1977;-7
+570;Ukraine;1977;-7
+571;United Kingdom;1977;10
+572;United States;1977;10
+573;Uruguay;1977;-8
+574;Uzbekistan;1977;-7
+575;Venezuela;1977;9
+576;Albania;1982;-9
+577;Argentina;1982;-8
+578;Armenia;1982;-7
+579;Australia;1982;10
+580;Austria;1982;10
+581;Azerbaijan;1982;-7
+582;Belarus;1982;-7
+583;Belgium;1982;10
+584;Bhutan;1982;-10
+585;Bolivia;1982;8
+586;Brazil;1982;-3
+587;Bulgaria;1982;-7
+588;Canada;1982;10
+589;Chile;1982;-7
+590;China;1982;-7
+591;Colombia;1982;8
+592;Costa Rica;1982;10
+593;Croatia;1982;-5
+594;Cuba;1982;-7
+595;Czech Rep.;1982;-7
+596;Denmark;1982;10
+597;Dominican Rep.;1982;6
+598;Ecuador;1982;9
+599;Egypt;1982;-6
+600;El Salvador;1982;2
+601;Estonia;1982;-7
+602;Ethiopia;1982;-7
+603;Finland;1982;10
+604;France;1982;8
+605;Georgia;1982;-7
+606;Germany;1982;10
+607;Greece;1982;8
+608;Guatemala;1982;-7
+609;Haiti;1982;-9
+610;Honduras;1982;6
+611;Hungary;1982;-7
+612;India;1982;8
+613;Indonesia;1982;-7
+614;Iran;1982;-6
+615;Iraq;1982;-9
+616;Ireland;1982;10
+617;Israel;1982;9
+618;Italy;1982;10
+619;Japan;1982;10
+620;Jordan;1982;-10
+621;Kazakhstan;1982;-7
+622;Korea, Dem. Rep.;1982;-9
+623;Korea, Rep.;1982;-5
+624;Kyrgyzstan;1982;-7
+625;Latvia;1982;-7
+626;Lebanon;1982;0
+627;Liberia;1982;-7
+628;Libya;1982;-7
+629;Lithuania;1982;-7
+630;Macedonia, FYR;1982;-5
+631;Mexico;1982;-3
+632;Moldova;1982;-7
+633;Mongolia;1982;-7
+634;Montenegro;1982;-5
+635;Myanmar;1982;-8
+636;Nepal;1982;-2
+637;Netherlands;1982;10
+638;New Zealand;1982;10
+639;Nicaragua;1982;-5
+640;Norway;1982;10
+641;Oman;1982;-10
+642;Pakistan;1982;-7
+643;Panama;1982;-5
+644;Paraguay;1982;-8
+645;Peru;1982;7
+646;Philippines;1982;-7
+647;Poland;1982;-8
+648;Portugal;1982;10
+649;Romania;1982;-8
+650;Russia;1982;-7
+651;Saudi Arabia;1982;-10
+652;Serbia;1982;-5
+653;Slovak Republic;1982;-7
+654;Slovenia;1982;-5
+655;South Africa;1982;4
+656;Spain;1982;10
+657;Sri Lanka;1982;5
+658;Sweden;1982;10
+659;Switzerland;1982;10
+660;Syria;1982;-9
+661;Taiwan;1982;-7
+662;Tajikistan;1982;-7
+663;Thailand;1982;2
+664;Turkey;1982;-5
+665;Turkmenistan;1982;-7
+666;Ukraine;1982;-7
+667;United Kingdom;1982;10
+668;United States;1982;10
+669;Uruguay;1982;-7
+670;Uzbekistan;1982;-7
+671;Venezuela;1982;9
+672;Albania;1987;-9
+673;Argentina;1987;8
+674;Armenia;1987;-7
+675;Australia;1987;10
+676;Austria;1987;10
+677;Azerbaijan;1987;-7
+678;Belarus;1987;-7
+679;Belgium;1987;10
+680;Bhutan;1987;-10
+681;Bolivia;1987;9
+682;Brazil;1987;7
+683;Bulgaria;1987;-7
+684;Canada;1987;10
+685;Chile;1987;-6
+686;China;1987;-7
+687;Colombia;1987;8
+688;Costa Rica;1987;10
+689;Croatia;1987;-5
+690;Cuba;1987;-7
+691;Czech Rep.;1987;-7
+692;Denmark;1987;10
+693;Dominican Rep.;1987;6
+694;Ecuador;1987;8
+695;Egypt;1987;-6
+696;El Salvador;1987;6
+697;Estonia;1987;-7
+698;Ethiopia;1987;-8
+699;Finland;1987;10
+700;France;1987;9
+701;Georgia;1987;-7
+702;Germany;1987;10
+703;Greece;1987;10
+704;Guatemala;1987;3
+705;Haiti;1987;-8
+706;Honduras;1987;5
+707;Hungary;1987;-7
+708;India;1987;8
+709;Indonesia;1987;-7
+710;Iran;1987;-6
+711;Iraq;1987;-9
+712;Ireland;1987;10
+713;Israel;1987;9
+714;Italy;1987;10
+715;Japan;1987;10
+716;Jordan;1987;-9
+717;Kazakhstan;1987;-7
+718;Korea, Dem. Rep.;1987;-9
+719;Korea, Rep.;1987;1
+720;Kyrgyzstan;1987;-7
+721;Latvia;1987;-7
+722;Lebanon;1987;0
+723;Liberia;1987;-6
+724;Libya;1987;-7
+725;Lithuania;1987;-7
+726;Macedonia, FYR;1987;-5
+727;Mexico;1987;-3
+728;Moldova;1987;-7
+729;Mongolia;1987;-7
+730;Montenegro;1987;-5
+731;Myanmar;1987;-8
+732;Nepal;1987;-2
+733;Netherlands;1987;10
+734;New Zealand;1987;10
+735;Nicaragua;1987;-1
+736;Norway;1987;10
+737;Oman;1987;-10
+738;Pakistan;1987;-4
+739;Panama;1987;-8
+740;Paraguay;1987;-8
+741;Peru;1987;7
+742;Philippines;1987;8
+743;Poland;1987;-6
+744;Portugal;1987;10
+745;Romania;1987;-8
+746;Russia;1987;-7
+747;Saudi Arabia;1987;-10
+748;Serbia;1987;-5
+749;Slovak Republic;1987;-7
+750;Slovenia;1987;-5
+751;South Africa;1987;4
+752;Spain;1987;10
+753;Sri Lanka;1987;5
+754;Sweden;1987;10
+755;Switzerland;1987;10
+756;Syria;1987;-9
+757;Taiwan;1987;-1
+758;Tajikistan;1987;-7
+759;Thailand;1987;2
+760;Turkey;1987;7
+761;Turkmenistan;1987;-7
+762;Ukraine;1987;-7
+763;United Kingdom;1987;10
+764;United States;1987;10
+765;Uruguay;1987;9
+766;Uzbekistan;1987;-7
+767;Venezuela;1987;9
+768;Albania;1992;5
+769;Argentina;1992;7
+770;Armenia;1992;7
+771;Australia;1992;10
+772;Austria;1992;10
+773;Azerbaijan;1992;1
+774;Belarus;1992;7
+775;Belgium;1992;10
+776;Bhutan;1992;-10
+777;Bolivia;1992;9
+778;Brazil;1992;8
+779;Bulgaria;1992;8
+780;Canada;1992;10
+781;Chile;1992;8
+782;China;1992;-7
+783;Colombia;1992;9
+784;Costa Rica;1992;10
+785;Croatia;1992;-3
+786;Cuba;1992;-7
+787;Czech Rep.;1992;8
+788;Denmark;1992;10
+789;Dominican Rep.;1992;6
+790;Ecuador;1992;9
+791;Egypt;1992;-6
+792;El Salvador;1992;7
+793;Estonia;1992;6
+794;Ethiopia;1992;0
+795;Finland;1992;10
+796;France;1992;9
+797;Georgia;1992;4
+798;Germany;1992;10
+799;Greece;1992;10
+800;Guatemala;1992;3
+801;Haiti;1992;-7
+802;Honduras;1992;6
+803;Hungary;1992;10
+804;India;1992;8
+805;Indonesia;1992;-7
+806;Iran;1992;-6
+807;Iraq;1992;-9
+808;Ireland;1992;10
+809;Israel;1992;9
+810;Italy;1992;10
+811;Japan;1992;10
+812;Jordan;1992;-2
+813;Kazakhstan;1992;-3
+814;Korea, Dem. Rep.;1992;-9
+815;Korea, Rep.;1992;6
+816;Kyrgyzstan;1992;-3
+817;Latvia;1992;8
+818;Lebanon;1992;0
+819;Liberia;1992;0
+820;Libya;1992;-7
+821;Lithuania;1992;10
+822;Macedonia, FYR;1992;6
+823;Mexico;1992;0
+824;Moldova;1992;5
+825;Mongolia;1992;9
+826;Montenegro;1992;-5
+827;Myanmar;1992;-7
+828;Nepal;1992;5
+829;Netherlands;1992;10
+830;New Zealand;1992;10
+831;Nicaragua;1992;6
+832;Norway;1992;10
+833;Oman;1992;-9
+834;Pakistan;1992;8
+835;Panama;1992;8
+836;Paraguay;1992;7
+837;Peru;1992;-3
+838;Philippines;1992;8
+839;Poland;1992;8
+840;Portugal;1992;10
+841;Romania;1992;5
+842;Russia;1992;5
+843;Saudi Arabia;1992;-10
+844;Serbia;1992;-5
+845;Slovak Republic;1992;8
+846;Slovenia;1992;10
+847;South Africa;1992;6
+848;Spain;1992;10
+849;Sri Lanka;1992;5
+850;Sweden;1992;10
+851;Switzerland;1992;10
+852;Syria;1992;-9
+853;Taiwan;1992;7
+854;Tajikistan;1992;-6
+855;Thailand;1992;9
+856;Turkey;1992;9
+857;Turkmenistan;1992;-9
+858;Ukraine;1992;6
+859;United Kingdom;1992;10
+860;United States;1992;10
+861;Uruguay;1992;10
+862;Uzbekistan;1992;-9
+863;Venezuela;1992;8

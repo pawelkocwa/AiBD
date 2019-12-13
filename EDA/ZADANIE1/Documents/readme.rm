@@ -1,0 +1,10 @@
+Data from github repository that were analysised, are located in Orginal_data.
+Link to repository: https://github.com/jerzybaranowski/public_lectures
+
+Output data are placed in Analysis_data
+
+Source code exported to python file as well as anaconda script are in Command_files.
+
+To rerun the whole process run the Lab_1.py sript or (better option) open Lab1_1.ipynb in Anaconda.
+
+Data were change to fulfill TIER Protocol.

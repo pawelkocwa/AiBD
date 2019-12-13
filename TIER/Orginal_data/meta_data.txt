@@ -1,0 +1,4 @@
+dem_score.xls  -  contains ratings of the level of democracy in different 
+countries spanning 1952 to 1992. In this dataset, the minimum value of -10 corresponds 
+to a highly autocratic nation whereas a value of 10 corresponds to a highly democratic nation. 
+Note also that backticks surround the different variable names.
